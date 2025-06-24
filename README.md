@@ -1,19 +1,19 @@
 <h1 align="center">Serkan Dursun</h1>
 <p align="center">
-  <em>Data Analyst | Business Analyst | Business Intelligence | </em>
+  <em>Data Analyst | Business Analyst | Business Intelligence | Sales Analyst  </em>
 </p>
 
 ---
 
 
-  <p align="center">
-  <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" alt="SQL Server" width="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80"/>
-  <img src="https://www.pngmart.com/files/23/Excel-Icon-PNG-Isolated-HD.png" alt="Excel" width="80"/>
-  <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Power BI" width="80"/>
-<img src="https://icon-library.com/images/salesforce-icon-file/salesforce-icon-file-1.jpg" alt="SalesForce" width="80"/>
+<p align="center">
+  <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" alt="SQL Server" width="60" height="60" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" height="60" style="vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="120" height="60" style="vertical-align:middle;"/>
+  <img src="https://www.pngmart.com/files/23/Excel-Icon-PNG-Isolated-HD.png" alt="Excel" width="60" height="60" style="vertical-align:middle;"/>
+  <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Power BI" width="80" height="60" style="vertical-align:middle;"/>
+  <img src="https://icon-library.com/images/salesforce-icon-file/salesforce-icon-file-1.jpg" alt="SalesForce" width="110" height="60" style="vertical-align:middle;"/>
 </p>
 
 
@@ -22,7 +22,9 @@
 
 ## 👋 About Me
 
-I am a data analyst and business intelligence enthusiast with a passion for transforming complex data into clear, actionable insights. My experience spans sales analytics, campaign optimization, and advanced reporting, with a strong focus on presenting findings to both technical and non-technical audiences. I thrive on building ETL pipelines, designing dashboards, and visualizing data to support strategic business decisions.
+I am a data analyst and business intelligence enthusiast with a passion for transforming complex data into clear, actionable insights. 
+My experience spans sales analytics, campaign optimization, and advanced reporting, with a strong focus on presenting findings to both technical and non-technical audiences. 
+I thrive on building ETL pipelines, designing dashboards, and visualizing data to support strategic business decisions.
 
 ---
 
@@ -84,11 +86,21 @@ Explore my folders:
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, R, SQL, DAX, VBA (in progress)
+- **Languages:** Python, R, SQL, DAX, VBA 
 - **Tools:** Power BI, Tableau, Excel, Azure, Google Analytics, VS Code
-- **Data Engineering:** ETL, data cleaning, database design, process automation
+- **Data Engineering:** ETL, Database design, Data Manipulation, Process Automation
 - **Visualization:** Dashboards, Charts, Diagrams
-- **Soft Skills:** Data storytelling, stakeholder communication, project documentation, 
+  
+- ## Soft Skills
+- **Data Storytelling:** Skilled at translating complex data into clear, actionable insights for both technical and non-technical audiences.
+- **Stakeholder Communication:** Experienced in presenting findings and recommendations to business leaders, sales teams, and cross-functional groups.
+- **Problem Solving:** Adept at identifying root causes, analyzing business challenges, and developing effective solutions.
+- **Project Management:** Capable of managing multiple projects simultaneously, meeting deadlines, and adapting to changing priorities.
+- **Collaboration:** Proven ability to work effectively in diverse, cross-functional teams and remote environments.
+- **Attention to Detail:** Thorough in data validation, reporting, and documentation to ensure accuracy and reliability.
+- **Adaptability:** Quick to learn new tools, technologies, and business domains.
+- **Critical Thinking:** Strong analytical mindset for evaluating data, processes, and business strategies.
+- **Continuous Learning:** Committed to ongoing professional development and staying current with industry trends.
 
 ---
 
