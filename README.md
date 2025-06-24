@@ -49,7 +49,7 @@
 ### 🎓 Education
 
 - **Master of Science in Information Technologies**  
-   (Jan 2024)
+   (2024)
 
 - **Bachelor of Business Management**  
  (2016)
