@@ -1,77 +1,100 @@
-<h1 align="center">Hi, I'm Serkan Dursun 👋</h1>
-
+<h1 align="center">Serkan Dursun</h1>
 <p align="center">
-  <em>Data Analyst | BI Specialist | Data-Driven Storyteller | Continuous Learner</em>
+  <em>Data Analyst | Business Analyst | Business Intelligence | </em>
 </p>
 
 ---
 
-### 👨‍💻 About Me
 
-- 📊 Experienced in sales analytics, campaign targeting, and advanced reporting for global organizations.
-- 🧠 Passionate about transforming raw data into actionable business insights and driving data-informed decision-making.
-- 🌍 Proven track record in both U.S. and international markets, collaborating with cross-functional teams and stakeholders.
-- 🚀 Always seeking to enhance my skills in analytics, automation, and business intelligence.
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Analytics" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <!-- Add more icons as needed for SPSS, Salesforce, Tableau, etc. -->
+  <p align="center">
+  <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" alt="SQL Server" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80"/>
+  <img src="https://www.pngmart.com/files/23/Excel-Icon-PNG-Isolated-HD.png" alt="Excel" width="80"/>
+  <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Power BI" width="80"/>
+<img src="https://icon-library.com/images/salesforce-icon-file/salesforce-icon-file-1.jpg" alt="SalesForce" width="80"/>
 </p>
 
----
 
-### 💼 Work Experience
-
-- **Sales Analyst**
-  - Built and maintained dashboards using Power BI and CRM platforms, enabling sales teams to make data-driven decisions.
-  - Conducted sales performance analysis, optimized campaign targeting, and supported client acquisition strategies.
-
-- **Data Analyst**  
-  - Delivered actionable insights by reducing reporting data lag and improving marketing and product performance tracking.
-  - Supported the design and maintenance of SQL databases, enhancing reliability and operational analytics infrastructure.
-
-- **Business Analyst**   
-  - Spearheaded comprehensive data analytics projects, enabling leadership to make data-driven decisions and drive business improvements.
-  - Conducted root cause analysis for production and logistics challenges, using Excel to identify trends and support decision-making.
 
 ---
 
-### 🎓 Education
+## 👋 About Me
 
-- **Master of Science in Information Technologies**  
-   (2024)
-
-- **Bachelor of Business Management**  
- (2016)
+I am a data analyst and business intelligence enthusiast with a passion for transforming complex data into clear, actionable insights. My experience spans sales analytics, campaign optimization, and advanced reporting, with a strong focus on presenting findings to both technical and non-technical audiences. I thrive on building ETL pipelines, designing dashboards, and visualizing data to support strategic business decisions.
 
 ---
 
-### 🚀 Academic & Professional Highlights
+## 💡 What I Do
 
-- **Data Analysis & Reporting:**  
-  Advanced analytics for sales, marketing, and operations using SQL, Power BI, Tableau, and SPSS.
-- **Business & Market Research:**  
-  Data-driven market research and competitor analysis for strategic planning.
-- **Organizational & Communication Skills:**  
-  Delivered stakeholder reports and presentations to support business decisions.
-- **Professional Development:**  
-  Ongoing coursework and independent research in business analytics, forecasting, and data visualization.
+- **Data Analysis & Visualization:**  
+  Analyze and visualize business data using Python, R, SQL, Power BI, Tableau, and Excel.
+- **ETL & Automation:**  
+  Build and document ETL processes to streamline data workflows and ensure data quality.
+- **Database Design & Diagrams:**  
+  Create and maintain database diagrams and documentation for efficient data management.
+- **Dashboard Development:**  
+  Develop interactive dashboards to monitor KPIs and drive business performance.
+- **Storytelling for All Audiences:**  
+  Present complex data and insights in a clear, compelling way for both technical and non-technical stakeholders.
+- **Collaboration:**  
+  Work with cross-functional teams to deliver actionable insights and support business growth.
 
 ---
 
-### 📫 Contact
+## 🗂️ Featured Projects
 
-- Email: [dserkan41@hotmail.com]
+- **Sales Performance Analysis:**  
+  End-to-end analysis of sales data, including ETL, database design, and dashboard creation.
+- **Automated Reporting:**  
+  Scripts and notebooks for automating data extraction, transformation, and reporting.
+- **Data Visualization:**  
+  Heatmaps, business diagrams, and interactive dashboards for real-world business scenarios.
+- **Documentation:**  
+  Step-by-step guides and markdown files to help users understand and use project data.
+
+Explore my folders:
+- `dashboards/` – Interactive dashboards and visualizations
+- `data/` – Sample datasets and data documentation
+- `images/` – Diagrams, heatmaps, and visual outputs
+- `notebooks/` – ETL processes, Python and R code
+- `reports/` – Business reports and summaries
+- `scripts/` – Automation and analysis scripts
+
+---
+
+## 🏆 Experience
+
+- **Data Analyst / BI Specialist**  
+  Developed dashboards, automated reports, and presented insights to business leaders and non-technical teams. Led data-driven projects from ETL to visualization, supporting sales, marketing, and operations.
+- **Business Analyst**  
+  Conducted root cause analysis, optimized business processes, and delivered presentations to stakeholders.
+- **Academic Projects**  
+  Designed and implemented data models, performed statistical analysis, and created business intelligence solutions as part of graduate coursework.
+
+---
+
+## 🎓 Education
+
+- **Master’s in Information Technologies** (2024)
+- **Bachelor’s in Business Management** (2016)
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, R, SQL, DAX, VBA (in progress)
+- **Tools:** Power BI, Tableau, Excel, Azure, Google Analytics, VS Code
+- **Data Engineering:** ETL, data cleaning, database design, process automation
+- **Visualization:** Dashboards, Charts, Diagrams
+- **Soft Skills:** Data storytelling, stakeholder communication, project documentation, 
+
+---
+
+## 📫 Contact
+
+- Email: [dserkan41@hotmail.com](mailto:dserkan41@hotmail.com)
 
 ---
 
