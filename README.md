@@ -1,10 +1,9 @@
 <h1 align="center">Serkan Dursun</h1>
 <p align="center">
-  <em>Data Analyst | Business Analyst | Business Intelligence | Sales Analyst  </em>
+  <em>Data Analyst | Business Analyst  | Sales Analyst  </em>
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" alt="SQL Server" width="60" height="60" style="vertical-align:middle;"/>
@@ -56,14 +55,14 @@ I thrive on building ETL pipelines, designing dashboards, and visualizing data t
 - **Documentation:**  
   Step-by-step guides and markdown files to help users understand and use project data.
 
-Explore my folders:
+## Explore my Sales-Analysis Project folders: 
 - `dashboards/` – Interactive dashboards and visualizations
 - `data/` – Sample datasets and data documentation
 - `images/` – Diagrams, heatmaps, and visual outputs
 - `notebooks/` – ETL processes, Python and R code
 - `reports/` – Business reports and summaries
 - `scripts/` – Automation and analysis scripts
-
+- https://github.com/Serkan-Dursun/Sales-Analysis
 ---
 
 ## 🏆 Experience
@@ -86,21 +85,11 @@ Explore my folders:
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, R, SQL, DAX, VBA 
-- **Tools:** Power BI, Tableau, Excel, Azure, Google Analytics, VS Code
+- **Languages:** Python, R, SQL, SPSS, VBA
+- **Tools:** SalesForce, Power BI, Tableau, Excel, Azure, Google Analytics, VS Code
 - **Data Engineering:** ETL, Database design, Data Manipulation, Process Automation
 - **Visualization:** Dashboards, Charts, Diagrams
   
-- ## Soft Skills
-- **Data Storytelling:** Skilled at translating complex data into clear, actionable insights for both technical and non-technical audiences.
-- **Stakeholder Communication:** Experienced in presenting findings and recommendations to business leaders, sales teams, and cross-functional groups.
-- **Problem Solving:** Adept at identifying root causes, analyzing business challenges, and developing effective solutions.
-- **Project Management:** Capable of managing multiple projects simultaneously, meeting deadlines, and adapting to changing priorities.
-- **Collaboration:** Proven ability to work effectively in diverse, cross-functional teams and remote environments.
-- **Attention to Detail:** Thorough in data validation, reporting, and documentation to ensure accuracy and reliability.
-- **Adaptability:** Quick to learn new tools, technologies, and business domains.
-- **Critical Thinking:** Strong analytical mindset for evaluating data, processes, and business strategies.
-- **Continuous Learning:** Committed to ongoing professional development and staying current with industry trends.
 
 ---
 
