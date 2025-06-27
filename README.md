@@ -1,6 +1,6 @@
 <h1 align="center">Serkan Dursun</h1>
 <p align="center">
-  <em>Data Analyst | Business Analyst  | Sales Analyst  </em>
+  <em> <strong> Data & Business Analyst  </strong> </em>
 </p>
 
 ---
