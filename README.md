@@ -21,9 +21,9 @@
 
 ## 👋 About Me
 
-I am a data analyst and business intelligence enthusiast with a passion for transforming complex data into clear, actionable insights. 
-My experience spans sales analytics, campaign optimization, and advanced reporting, with a strong focus on presenting findings to both technical and non-technical audiences. 
-I thrive on building ETL pipelines, designing dashboards, and visualizing data to support strategic business decisions.
+I am a data analyst and business intelligence enthusiast passionate about turning complex data into actionable insights. 
+With a Master’s degree in Information Technologies, I specialize in data analysis, visualization, and storytelling to support strategic business decisions. 
+I excel at presenting complex findings clearly to both technical and non-technical audiences, helping drive informed decision-making and business growth.
 
 ---
 
@@ -62,7 +62,7 @@ I thrive on building ETL pipelines, designing dashboards, and visualizing data t
 - `notebooks/` – ETL processes, Python and R code
 - `reports/` – Business reports and summaries
 - `scripts/` – Automation and analysis scripts
-- https://github.com/Serkan-Dursun/Sales-Analysis
+  ### https://github.com/Serkan-Dursun/Sales-Analysis 
 ---
 
 ## 🏆 Experience
